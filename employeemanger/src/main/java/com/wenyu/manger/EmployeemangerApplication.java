@@ -11,6 +11,7 @@ public class EmployeemangerApplication {
         SpringApplication.run(EmployeemangerApplication.class, args);
 
         int i =10;
+        int j = 20;
     }
 
 }
