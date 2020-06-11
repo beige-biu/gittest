@@ -9,6 +9,7 @@ public class EmployeemangerApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(EmployeemangerApplication.class, args);
+        int j = 20;
     }
 
 }
